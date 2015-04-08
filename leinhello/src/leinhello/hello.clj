@@ -2,4 +2,4 @@
   (:gen-class))
 
 (defn -main [& args]
-  (println "hello world"))
+  (println "hello world" (+ 3 5)))
